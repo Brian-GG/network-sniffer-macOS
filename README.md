@@ -1,4 +1,5 @@
 Network Sniffing Detector - MacOS
+
 Adversaries may sniff network traffic to capture info about an environment, including authentication material passed over the network. Detector checks for running processes and commands to notify.
 
 What it does
