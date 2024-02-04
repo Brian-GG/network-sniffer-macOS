@@ -35,7 +35,7 @@ def check_processes(process_list):
             break
 
 def create_alert(detection):
-    print("Binary padding detected! Creating alert")
+    print("Potetnial Network Sniffing Detected! Creating alert")
 
     howler.hit.create(
         {
